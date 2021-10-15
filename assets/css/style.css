@@ -1,0 +1,26 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    color: #373A3C;
+}
+
+nav, .logo
+{
+    background-color: #E83E8C;
+}
+
+footer
+{
+    background-color: #17A2B8;
+}
+
+footer i
+{
+    color: #ffffffff;
+}
+
+.texto
+{
+    text-align: center;
+}
+
